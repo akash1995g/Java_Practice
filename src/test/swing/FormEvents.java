@@ -1,6 +1,5 @@
 package test.swing;
 
-import java.awt.event.ActionListener;
 import java.util.EventObject;
 
 public class FormEvents extends EventObject {
